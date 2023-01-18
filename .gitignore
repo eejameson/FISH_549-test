@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 .DS_Store
+
+# should be covered in the global git ignore file
+*.Rproj 
